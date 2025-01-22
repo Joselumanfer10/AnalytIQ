@@ -81,7 +81,7 @@ logo_bytes = logo_bytes.getvalue()
 logo_base64 = base64.b64encode(logo_bytes).decode()
 
 # Cargar la imagen de fondo y convertirla a base64
-background_path = "Logos/Cabecera.png"  # Reemplaza con la ruta de la imagen de fondo
+background_path = "Logos/cabecera.png"  # Reemplaza con la ruta de la imagen de fondo
 imagen_fondo = Image.open(background_path)
 fondo_bytes = io.BytesIO()
 imagen_fondo.save(fondo_bytes, format="PNG")
