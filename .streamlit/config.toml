@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#00ADB5"  # Color principal
+backgroundColor = "#222831"  # Fondo principal
+secondaryBackgroundColor = "#393E46"  # Fondo secundario
+textColor = "#EEEEEE"  # Color del texto

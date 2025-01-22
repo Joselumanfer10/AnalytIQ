@@ -7,6 +7,3 @@ token_turso.txt
 __pycache__/
 *.pyc
 *.pyo
-
-# Archivos específicos de Streamlit
-.streamlit/
