@@ -1,4 +1,4 @@
 streamlit
 pillow
-python-dotenv
-sqlite3  # Si tu entorno necesita instalarlo explícitamente
+python-dotenv>=1.0.0
+--upgrade pip
