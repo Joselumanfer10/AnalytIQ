@@ -1,0 +1,12 @@
+# Archivos sensibles
+.env
+newsletter.db
+token_turso.txt
+
+# Directorios creados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos específicos de Streamlit
+.streamlit/
